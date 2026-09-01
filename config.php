@@ -1,6 +1,6 @@
 <?php
 
-$api_host = "d3368f73521073a1.a758a6c5.sslip.io";
+$api_host = "03368f73521073a1.a758a6c5.sslip.io";
 $api_token = "a7abc4cd14d2d63db7fddc1b9661ae";
 $api_prefix = "0spt83xj";
 
